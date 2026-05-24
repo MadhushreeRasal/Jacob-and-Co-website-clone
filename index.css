@@ -1,0 +1,159 @@
+body{
+	margin:0;
+	padding:0;
+	color:white;
+	background-color:black;
+	text-align:center;
+}
+.home, .about{
+	position:relative;
+}
+h1{
+	font-weight:400;
+	margin:10px;
+}
+section{
+	margin:0;
+}
+.home{
+	background-color:black;
+	background-image:url("https://www.datocms-assets.com/99008/1748529167-bugatti-tourbillon-1.webp");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:45%;
+	height:500px;
+}
+.right{
+	float:right;
+}
+.left{
+	float:left;
+}
+.nav{
+	border:1px solid white;
+	border-radius:15px;
+	padding:5px 30px;
+	font-size:12px;
+	margin:2.5%;
+}
+.ri-equal-fill{
+	font-size:30px;
+	margin:3.5% 20px 10px 5px;
+}
+.button1{
+	border:1px solid white;
+	border-radius:15px;
+	padding:5px 30px;
+	font-size:12px;
+	margin:35% 15% 1% 1%;
+}
+.button2{
+	border:1px solid white;
+	border-radius:15px;
+	padding:5px 30px;
+	font-size:12px;
+	margin:27.5% 1% 1% 1%;
+}
+.heading{
+	font-size:68.5px;
+	margin:1px;
+}
+.about{
+	background-color:rgba(00, 00, 00, 0);
+	width:100%;
+	background-image:url("https://www.datocms-assets.com/99008/1748529167-bugatti-tourbillon-1.webp");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:45%; 
+	height:500px;
+}
+.inspiration{
+	font-size:35px;
+	font-weight:400;
+	padding-top:10%;
+	color:rgb(255, 255, 255);
+}
+.background{
+	background-color:rgba(0, 0, 0, 0.7);
+	height:100%;
+}
+.p{
+	font-size:30px;
+	z-index:2;
+	opacity:1;
+	color:white;
+}
+.timepiece{
+	background-color:black;
+	background-image:url("https://img.chrono24.com/images/uhren/24236366-0170b3no6e3wnhhaw7ccezp5-ExtraLarge.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:45%;
+	height:200px;
+	padding:35% 1% 1% 1%;
+}
+.heading2{
+	font-size:140px;
+	font-weight:normal;
+	margin:1px;
+}
+.heading3{
+	font-size:180px;
+	font-weight:normal;
+	margin:1px;
+}
+.button3{
+	border:1px solid white;
+	border-radius:15px;
+	padding:5px 30px;
+	font-size:12px;
+	width:15%;
+	margin:0.5%;
+}
+.partnership{
+	background-color:black;
+	background-image:url("https://img.watchtime.in/images/Article/2022/September/geneva_watch_days_2022%3A_jacob_%26_co%27s_astronomia_and_epic_x_in_the_spotlight_cover_166209100263117efa5a456.png");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+	height:200px;
+	padding:35% 1% 1% 1%;
+}
+.footer{
+	background-color:whitesmoke;
+	color:black;
+	height:550px;
+}
+hr{
+	width:95%;
+}
+.li{
+	margin:1% 37% 3% 1%;
+}
+.info{
+	margin:0.3% 55% 1% 3%;
+	font-size:12px;
+}
+.info2{
+	margin:0.3% 75% 1% 3%;
+	font-size:12px;
+}
+.nav2{
+	border:1px solid black;
+	border-radius:15px;
+	padding:5px 30px;
+	font-size:12px;
+	margin:3% 1% 2% 3%;
+}
+.list{
+	margin:1% 36% 3% 0%;
+	font-size:14px;
+}
+.list1{
+	margin:1% 2% 3% 0%;
+	font-size:14px;
+}
